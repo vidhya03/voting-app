@@ -6,7 +6,7 @@ metadata:
         name: result-Service
         app: demo-voting-app
 spec:
-    type: LoadBalancer
+    type: NodePort
     ports:
         - port: 80
           targetPort: 80
