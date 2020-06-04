@@ -1,6 +1,12 @@
 # Kubernetes beginners lab cluster part 1
-## without deployment
-This environment has been verified in ```minikube```
+## Demo - Deploying Microservices Application on minikube Cluster
+This code samples is copied from the udemy kubernetes for the absolute beginners 
+From the 
+- [Deploying Microservices Application on GCP minikube Kubernetes Cluster](https://www.udemy.com/course/learn-kubernetes/learn/lecture/9752888#overview) 
+
+I haven't used deployment
+
+This environment is used  ```minikube```
 
 After check out
 ```sh
