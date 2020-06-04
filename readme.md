@@ -8,9 +8,15 @@ I haven't used deployment
 
 This environment is used  ```minikube```
 
-After check out
 ```sh
-$ kubectl create -f .
+git clone https://github.com/vidhya03/voting-app.git
+```
+
+After check out
+
+```sh
+cd voting-app
+kubectl create -f .
 ```
 
 ```sh
